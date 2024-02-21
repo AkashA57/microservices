@@ -1,0 +1,10 @@
+
+my:
+    greeting :  Hello Test World
+    list:
+        values :  One, Two, Three
+
+db:
+    connection :  "{connectionString: 'http://___', userName: 'tester', password: 'test123}"
+    host :  127.0.0.2
+    port :  8081
